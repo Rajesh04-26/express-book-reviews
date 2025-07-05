@@ -3,11 +3,11 @@
 This is a Node.js and Express-based API that allows users to browse books, register accounts, log in, and add/update/delete reviews for books. The project was built as part of the **IBM Full Stack Software Developer Professional Certificate** on **Coursera**.
 
 ## 🚀 Features
-*✅ View all available books in the shop
-*✅ Search books by **ISBN**, **author**, or **title**
-*✅ Register as a new user
-*✅ Login securely using JWT authentication
-*✅ Add, update, and delete book reviews (authenticated users only)
+-✅ View all available books in the shop
+-✅ Search books by **ISBN**, **author**, or **title**
+-✅ Register as a new user
+-✅ Login securely using JWT authentication
+-✅ Add, update, and delete book reviews (authenticated users only)
 
 ### 📖 Public Routes
 * `GET /` - Get all books
